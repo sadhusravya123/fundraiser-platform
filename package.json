@@ -1,0 +1,15 @@
+{
+  "name": "fundraiser-platform",
+  "version": "1.0.0",
+  "description": "Fundraiser Platform MERN Stack Project",
+  "scripts": {
+    "server": "npm --prefix server run start",
+    "server:dev": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "client:build": "npm --prefix client run build",
+    "seed": "npm --prefix server run seed"
+  },
+  "keywords": ["mern", "fundraiser", "crowdfunding", "donation-platform"],
+  "author": "MERN Developer",
+  "license": "ISC"
+}
