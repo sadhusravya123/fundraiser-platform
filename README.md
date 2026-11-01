@@ -241,12 +241,3 @@ Pre-seeded accounts are provided for viva demonstrations:
 
 ---
 
-## 🎓 College Viva Presentation Checklist
-
-- [x] **Full-Stack Execution**: Both frontend and backend run seamlessly with connected MongoDB.
-- [x] **Data Persistence**: Refreshing the browser preserves all created campaigns and donations in MongoDB.
-- [x] **JWT Security**: Storing tokens in localStorage with Bearer headers in Axios.
-- [x] **Search & Filters**: Real-time keyword search, category pills, and sorting dropdown.
-- [x] **Role-Based Access Control**: Normal users cannot access `/admin` or invoke admin endpoints.
-- [x] **Demo Payment Clarity**: Clearly explains the simulated payment sandbox without misleading users.
-- [x] **Printable Receipts**: Direct `window.print()` trigger for tangible demonstration.
